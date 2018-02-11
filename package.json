@@ -1,0 +1,19 @@
+{
+  "name": "JS_Solution",
+  "version": "1.0.0",
+  "main": "CreateCSV.js",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "json2csv": "^3.11.5",
+    "node-dir": "^0.1.17",
+    "recursive-readdir": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
